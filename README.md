@@ -25,7 +25,7 @@ This sample uses the Tomcat server provided by App Service. You can serve Java w
 with a web server provided by App Service, with a custom server, or with a server embedded in your 
 WAR/JAR.
 
-<a name="structure">
+<a name="structure" />
 ### Folder structure
 
 The main thing in the repo is a `webapps` folder with ROOT.war. The Tomcat/Jetty server in App Service
